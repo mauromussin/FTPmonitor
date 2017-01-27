@@ -13,14 +13,8 @@
 ## output in due file separati per GPRS e Supervisore. I file vengono distrutti prima di ogni run
 #
 ### variabili
-FTP_Piem_ID='arpapiem'
-FTP_Piem_pwd='4rp@P!eM'
 FTP_CAE_ID='remcae'
 FTP_CAE_pwd='usr2010cae'
-FTP_ADDA_ID='consadda'
-FTP_ADDA_pwd='adda2arpa'
-FTP_PCIV_ID='arpa2pc'
-FTP_PCIV_pwd='4rP-2+c!'
 MYDIR='/home/meteo/script/FTPmonitor/'
 #lftp -f data/FTP_command_file_CAE
 #lftp -f data/FTP_command_file_Adda
